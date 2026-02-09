@@ -5,7 +5,7 @@ A pipeline to identify BLAST hits and perform phylogenetic analysis across multi
 
 [![DOI](https://zenodo.org/badge/374224275.svg)](https://zenodo.org/doi/10.5281/zenodo.10888646)
  
-## Introduction
+## Introduction 
 A common task in bioinformatics is to find similar genes across a set of genomes and compare them using phylogenetic methods. As an alternative to using online tools for such analyses, researchers may wish to download genomes of interest for local BLAST and downstream analyses. Homolog curation, tree construction, header parsing, and visualization alongside other datasets (e.g. gene expression) can give quick insights into a gene family of interest.
 
 ![](images/flowchart.png)
